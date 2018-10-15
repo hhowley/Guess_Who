@@ -1,14 +1,3 @@
-#-------------------------------------------------------------------------------
-# Name:        Guess Who!
-# Purpose:     AH Computing Project 2016
-#
-# Author:      Harry Howley (SCN: 063427705)
-#
-# Created:     19/04/2016
-# Copyright:   Creative Common BY-NC-SA 3.0 Licence 2016
-#-------------------------------------------------------------------------------
-#!/usr/bin/env python
-
 from tkinter import *
 from tkinter import messagebox
 from random import *
